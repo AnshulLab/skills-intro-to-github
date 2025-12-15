@@ -58,6 +58,32 @@ In this course, you will:
    - Scroll down and click the **Create repository** button at the bottom of the form.
 3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
 
+## Additional Learning Resources
+
+### Financial Risk Modelling from Climate Change for Banks
+
+This repository also includes comprehensive educational materials on climate risk modelling for banking institutions:
+
+- **[Climate Risk Modelling Guide](CLIMATE_RISK_MODELLING.md)**: Complete framework covering climate risk types, regulatory requirements, assessment methodologies, modelling techniques, and implementation strategies.
+
+- **[Practical Examples](CLIMATE_RISK_EXAMPLES.md)**: Real-world case studies including:
+  - Mortgage portfolio physical risk assessment
+  - Corporate loan transition risk analysis
+  - Climate scenario analysis
+  - Climate-adjusted credit rating
+  - Green finance opportunity assessment
+
+- **[Quick Reference Guide](CLIMATE_RISK_QUICK_REFERENCE.md)**: Essential concepts, formulas, metrics, and best practices for quick reference.
+
+These resources are designed for:
+- Banking professionals learning about climate financial risks
+- Risk managers implementing climate risk frameworks
+- Financial analysts conducting climate scenario analysis
+- Students studying sustainable finance
+- Anyone interested in understanding climate risks in the banking sector
+
+Start with the [Quick Reference Guide](CLIMATE_RISK_QUICK_REFERENCE.md) for an overview, then explore the comprehensive [Climate Risk Modelling Guide](CLIMATE_RISK_MODELLING.md) and [Practical Examples](CLIMATE_RISK_EXAMPLES.md) for deeper learning.
+
 <footer>
 
 <!--
